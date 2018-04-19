@@ -1,0 +1,22 @@
+[
+    {"sound":"./sound-library/gattaz/gattaz-35h.mp3", "type": "gattaz", "boucle": false},
+    {"sound":"./sound-library/gattaz/gattaz-cestpasbien.mp3", "type": "gattaz", "boucle": false},
+    {"sound":"./sound-library/gattaz/gattaz-csgtva.mp3", "type": "gattaz", "boucle": false},
+    {"sound":"./sound-library/gattaz/gattaz-depolitiser.mp3", "type": "gattaz", "boucle": false},
+    {"sound":"./sound-library/gattaz/gattaz-heureux.mp3", "type": "gattaz", "boucle": false},
+    {"sound":"./sound-library/gattaz/gattaz-ilnemanifestepas.mp3", "type": "gattaz", "boucle": false},
+    {"sound":"./sound-library/gattaz/gattaz-isf.mp3", "type": "gattaz", "boucle": false},
+    {"sound":"./sound-library/gattaz/gattaz-management.mp3", "type": "gattaz", "boucle": false},
+    {"sound":"./sound-library/gattaz/gattaz-motive.mp3", "type": "gattaz", "boucle": false},
+    {"sound":"./sound-library/gattaz/gattaz-reformersecu.mp3", "type": "gattaz", "boucle": false},
+    {"sound":"./sound-library/gattaz/gattaz-remunerationvariable.mp3", "type": "gattaz", "boucle": false},
+    {"sound":"./sound-library/macron/macron-costard.mp3", "type": "macron", "boucle": false},
+    {"sound":"./sound-library/macron/macron-gensintelligenges.mp3", "type": "macron", "boucle": false},
+    {"sound":"./sound-library/macron/macron-jaipasdeleconarecevoir.mp3", "type": "macron", "boucle": false},
+    {"sound":"./sound-library/macron/macron-jenevaispascommenter.mp3", "type": "macron", "boucle": false},
+    {"sound":"./sound-library/macron/macron-jevousliecequonadit.mp3", "type": "macron", "boucle": false},
+    {"sound":"./sound-library/macron/macron-largent.mp3", "type": "macron", "boucle": false},
+    {"sound":"./sound-library/macron/macron-yadesfreresetdessoeurs.mp3", "type": "macron", "boucle": false},
+    {"sound":"./sound-library/boucleslam.mp3", "type": "music", "boucle": true}
+
+]
